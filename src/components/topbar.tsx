@@ -3,7 +3,7 @@ import { Bell, User, Search } from 'lucide-react';
 
 const Topbar = () => {
   return (
-    <header className="bg-gradient-to-r from-[--topbar-start] to-[--topbar-end] text-white shadow-md p-4 flex justify-between items-center">
+    <header className="bg-gradient-to-r from-topbar-start to-topbar-end text-white shadow-md p-4 flex justify-between items-center">
       <div className="flex items-center">
         <h1 className="text-2xl font-bold">Dashboard</h1>
       </div>

@@ -3,7 +3,7 @@ import { LayoutDashboard, Users, Settings } from 'lucide-react';
 
 const Sidebar = () => {
   return (
-    <div className="w-64 bg-gradient-to-b from-[--sidebar] to-[--sidebar-dark] text-sidebar-foreground p-5">
+    <div className="w-64 bg-gradient-to-b from-sidebar to-sidebar-dark text-sidebar-foreground p-5">
       <h2 className="text-2xl font-bold mb-10 text-center">Admin</h2>
       <nav>
         <ul>
